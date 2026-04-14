@@ -27,7 +27,7 @@ MCP (Model Context Protocol) is an open standard that lets AI models connect to 
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| 01 | [The Problem MCP Solves](./01-the-problem/) | ✅ |
+| 01 | [The Problem MCP Solves](./01.%20The%20Problem%20MCP%20Solves/) | ✅ |
 | 02 | Host, Client, Server Roles | 🔲 |
 | 03 | What Servers Expose — Tools, Resources, Prompts | 🔲 |
 | 04 | How They Communicate — Transports | 🔲 |
