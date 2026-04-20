@@ -5,7 +5,7 @@
 
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![Days](https://img.shields.io/badge/Day-1%20of%2010-green)
+![Days](https://img.shields.io/badge/Day-2%20of%2010-green)
 
 ---
 
@@ -28,7 +28,7 @@ MCP (Model Context Protocol) is an open standard that lets AI models connect to 
 | Day | Topic | Status |
 |-----|-------|--------|
 | 01 | [The Problem MCP Solves](./01.%20The%20Problem%20MCP%20Solves/) | ✅ |
-| 02 | Host, Client, Server Roles | 🔲 |
+| 02 | [Host, Client, Server Roles](./02.%20Host%20Client%20Server%20Roles/) | ✅ |
 | 03 | What Servers Expose — Tools, Resources, Prompts | 🔲 |
 | 04 | How They Communicate — Transports | 🔲 |
 | 05 | Seeing a Real MCP Server in Action | 🔲 |
